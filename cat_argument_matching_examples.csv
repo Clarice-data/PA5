@@ -1,0 +1,4 @@
+"MatchingType","Example"
+"Exact","cat(..., sep = ' ', fill = FALSE)"
+"Partial","cat(..., se = ' ', fi = FALSE)"
+"Positional","cat(..., ' ', FALSE)"
